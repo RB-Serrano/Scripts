@@ -1,6 +1,6 @@
 # Set your script paths
 $localScript = "C:\Scripts\MyScript.ps1"
-$remoteScriptUrl = "https://raw.githubusercontent.com/yourusername/repo/main/MyScript.ps1"
+$remoteScriptUrl = "https://raw.githubusercontent.com/RB-Serrano/Scripts/refs/heads/main/MyScript.ps1"
 $tempDownload = "$env:TEMP\MyScript_new.ps1"
 
 # Download the remote version temporarily
